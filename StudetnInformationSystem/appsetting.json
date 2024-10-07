@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "LocalConnectionStrings": "Server=LAPTOP-BLADERUN\\SQLEXPRESS;Database=SISDB;Trusted_Connection=True"
+  }
+}
